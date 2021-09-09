@@ -10,6 +10,3 @@ Phase Congruency Edge &amp; Corners using OF
 ### Dependancy
 - ofxCv
 - OpenFrameworks 0.11.x
-- XCode 12.5.x
-- Mac OSX BigSur
-- M1 MacMini
